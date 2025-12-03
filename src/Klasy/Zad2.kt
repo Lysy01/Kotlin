@@ -10,6 +10,5 @@ class Pogoda(var miasto: String, var temperatura: Double){
 fun main() {
     var pogodaWarszawa = Pogoda("Warszawa", 22.0)
     var pogodaTorun = Pogoda("Toruń", 20.4, 5.0)
-    var ojciec = cwel("Irenek ")
-    ojciec.ojciec
+
 }
