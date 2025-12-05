@@ -5,5 +5,6 @@ fun main() {
     var programista: Programista = Programista()
 
     var jajko: String? = null
+    var ocet: String? = null
 
 }
