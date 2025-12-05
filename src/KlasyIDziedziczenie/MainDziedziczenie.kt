@@ -6,5 +6,7 @@ fun main() {
         "Adam", "Nowak", "Programowanie aplikacji", 12000, "Kotlin"
     )
 
+    pracownik.odmeldujSie()
+    programista.odmeldujSie()
 
 }
