@@ -1,10 +1,10 @@
 package KlasyIDziedziczenie
 
 fun main() {
-    var pracownik: Pracownik = Pracownik()
-    var programista: Programista = Programista()
+    var pracownik: Pracownik = Pracownik("Jan", "Kowalski","Obsluga klienta", 5000)
+    var programista: Programista = Programista(
+        "Adam", "Nowak", "Programowanie aplikacji", 12000, "Kotlin"
+    )
 
-    var jajko: String? = null
-    var ocet: String? = null
 
 }

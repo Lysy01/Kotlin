@@ -1,5 +1,12 @@
 package KlasyIDziedziczenie
 
-class Programista : Pracownik() {
-    var jezykProgramowania: String? = null
+class Programista(
+    imie: String,
+    nazwisko: String,
+    obowiazki: String,
+    pensja: Int,
+    var jezykProgramowania: String
+) : Pracownik(imie, nazwisko, obowiazki, pensja) {
+
+
 }
