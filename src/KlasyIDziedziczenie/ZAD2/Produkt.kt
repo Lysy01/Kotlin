@@ -19,6 +19,7 @@ class Wegiel(vat: Double = 23.0) : Produkt(vat) {
     var limit: Int? = null
 
     constructor(vat: Double = 23.0, limit: Int) : this(vat) {
+
         this.limit = limit
     }
 
