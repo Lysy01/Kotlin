@@ -7,6 +7,7 @@ fun main() {
     ekran.ZmienUstawienia()
 
     println(UstawieniaAplikacji.nazwa )
+
 }
 
 class ekran {
