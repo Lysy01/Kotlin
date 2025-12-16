@@ -6,6 +6,7 @@ class out {
         fun function() {
             println(pole)
             println("dcsdasdas")
+
         }
     }
 
