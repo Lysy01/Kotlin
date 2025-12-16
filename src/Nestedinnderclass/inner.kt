@@ -5,6 +5,7 @@ class out {
     inner class inanother {
         fun function() {
             println(pole)
+            println("dcsdasdas")
         }
     }
 
